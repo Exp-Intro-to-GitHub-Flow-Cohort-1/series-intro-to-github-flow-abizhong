@@ -1,3 +1,1 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+Welcome to my GitHub profile!
